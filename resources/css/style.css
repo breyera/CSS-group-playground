@@ -1,0 +1,18 @@
+body{
+    background-color: dimgray;
+}
+
+header {
+    height:auto;
+    
+}
+
+main {
+    display:flex;
+    width: 100%;
+}
+
+footer{
+    height: 40px;
+    background-color: blueviolet;
+}
